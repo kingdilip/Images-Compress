@@ -1,0 +1,5 @@
+D:\All Project\ImageResize\ImageResize\bin\ImageResize.dll
+D:\All Project\ImageResize\ImageResize\bin\ImageResize.pdb
+D:\All Project\ImageResize\ImageResize\obj\Debug\ImageResize.dll
+D:\All Project\ImageResize\ImageResize\obj\Debug\ImageResize.pdb
+D:\All Project\ImageResize\ImageResize\obj\Debug\ImageResize.csprojResolveAssemblyReference.cache

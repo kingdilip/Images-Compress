@@ -1,0 +1,49 @@
+﻿
+        body
+        {
+            font: 12px Arial;
+        }
+         
+        .myGridStyle
+        {
+            border-collapse:collapse;
+             
+        }
+         
+        .myGridStyle tr th
+        {
+            padding: 5px;
+            color: black;
+            border: 1px solid black;
+            text-align:center;
+
+        }
+         
+         
+        .myGridStyle tr:nth-child(even)
+        {
+            background-color:lavender;
+            /*background-color: #E1FFEF;*/
+            text-align:center;
+
+        }
+         
+        .myGridStyle tr:nth-child(odd)
+        {
+            background-color:lavender;
+            /*background-color: #00C157;*/
+            text-align:center;
+
+        }
+         
+        .myGridStyle td
+        {
+            border:1px solid black;
+            padding: 5px;
+            text-align:center;
+        }
+         
+        .myGridStyle tr:last-child td
+        {
+        }
+  
